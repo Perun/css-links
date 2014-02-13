@@ -18,6 +18,7 @@ Meine Links zum Thema CSS, CSS3 &amp; Co.
 6. [CSS3 animated dropdown menu](http://www.red-team-design.com/css3-animated-dropdown-menu)
 7. [Cross-browser CSS gradient buttons](http://www.red-team-design.com/cross-browser-css-gradient-buttons)
 8. [CSS3 breadcrumbs](http://www.red-team-design.com/css3-breadcrumbs) – Brotkrümel-Navigation mit CSS3 stylen
+9. [Addressing The Responsive Images Performance Problem: A Case Study](mobile.smashingmagazine.com/2013/09/16/responsive-images-performance-problem-case-study/)
 
 ### Font-Icons
 
