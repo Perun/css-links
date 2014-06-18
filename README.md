@@ -28,3 +28,4 @@ Meine Links zum Thema CSS, CSS3 &amp; Co.
 3. [Verwendung von Zeichen-Escapes in Markup und CSS](http://www.w3.org/International/questions/qa-escapes) – wichtiger Artikel um den Unterschied von der Notation zwischen HTML und CSS zu verstehen. Um z.B. ein Stern in HTML abzubilden (&#9733;) kann man dezimal (`&#9733;`) oder hexadezimal (`&#x2605;`) arbeiten. In der CSS-Datei greift man auf die hexadezimale Schreibweise zu und "escaped" den Wert: `"\2605";`.
 4. [Einige Font-Icons](http://goetter.fr/unicode/) und [eine Liste mit Zeichen](http://www.gemeinde-michendorf.de/homepage/8sonstiges/entity.php) (HTML Entities, Dezimal und Hexadezimal).
 5. [Just some other awesome CSS3 buttons](http://www.red-team-design.com/just-another-awesome-css3-buttons)
+6. [http://css-tricks.com/icon-fonts-vs-svg/](http://css-tricks.com/icon-fonts-vs-svg/)
